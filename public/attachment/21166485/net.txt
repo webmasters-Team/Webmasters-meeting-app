@@ -1,0 +1,20 @@
+physical layer : addressing
+transmission impairment
+digital and analog signal
+different encoding techniques
+switching
+
+data link layer: different error detection and correction techniques
+flow control protocol
+medium access control
+aloha
+CSMA/CD
+polling
+reservation
+token passing
+fixed and variable length framing
+
+Network layer: IP adress
+different classes
+subnet masking
+cidr notation
